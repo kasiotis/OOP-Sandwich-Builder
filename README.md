@@ -1,0 +1,2 @@
+# OOP-Sandwich-Builder
+This was an Undergraduate project that I worked on where I implemented an Object-Oriented program in Java that would act as a sandwich builder. Multiple object were created to represent the various items that make up a sandwich. Prices were also included for each item and in the end when you built your custom sandwich, a receipt was printed with the prices for each item used and a total amount.
